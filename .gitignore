@@ -1,0 +1,5 @@
+#auto-generated directories
+site/
+
+#vscode system files
+.vscode/
